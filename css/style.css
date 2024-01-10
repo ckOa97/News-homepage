@@ -28,7 +28,7 @@ p {
 
     background-color: white;
     width: 70%;
-    overflow: hidden;
+    overflow: scroll;
     transition: transform 0.3s;
 
 }
